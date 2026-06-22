@@ -10,6 +10,8 @@ type DistributionType = {
 const languagesToExtensions: Record<string, string> = {
   Python: '.py',
   Python3: '.py',
+  Pandas: '.py',
+  pythondata: '.py',
   'C++': '.cpp',
   C: '.c',
   Java: '.java',
